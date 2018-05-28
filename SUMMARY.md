@@ -5,4 +5,4 @@
 * [Linux笔记](/notes/Linux笔记)
 * [Python笔记](/notes/Python笔记)
 * [Mysql笔记](/notes/Mysql笔记)
-* [待整理的笔记](/notes/notes)
+* [待整理的笔记](/notes/notes.md)
